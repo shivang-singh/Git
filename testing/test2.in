@@ -1,0 +1,15 @@
+#Test 2 lolololol
+> init
+<<<
+> commit "dommi3"
+No changes added to the commit.
+<<<
+> log
+===
+commit [a-f0-9]+
+Date: \w\w\w \w\w\w \d+ \d\d:\d\d:\d\d\ \d\d\d\d [-+]\d\d\d\d
+initial commit
+<<<*
++ doa.txt wug2.txt
+> add doa.txt
+<<<

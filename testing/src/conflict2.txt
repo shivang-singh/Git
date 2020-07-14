@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+lmao this is wug2.txt
+i should have had this in
+my src before running lol
+=======
+>>>>>>>

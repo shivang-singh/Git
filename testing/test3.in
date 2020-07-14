@@ -1,0 +1,15 @@
+#Test 3 eeeccslls
+> init
+<<<
+> commit "yolol homoie"
+No changes added to the commit.
+<<<
+> log
+===
+commit [a-f0-9]+
+Date: \w\w\w \w\w\w \d+ \d\d:\d\d:\d\d\ \d\d\d\d [-+]\d\d\d\d
+initial commit
+<<<*
++ takda.txt wug2.txt
+> add takda.txt
+<<<
